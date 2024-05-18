@@ -1,0 +1,11 @@
+.carousel-item img {
+  height: 500px; /* Set the height to what you need */
+  object-fit: cover;
+  object-position: center; /* Adjust this value to focus on the part you want */
+}
+
+.carousel-item1 img {
+  height: 500px; /* Set the height to what you need */
+  object-fit: cover;
+  object-position: center 70%; /* Adjust this value to focus on the part you want */
+}
